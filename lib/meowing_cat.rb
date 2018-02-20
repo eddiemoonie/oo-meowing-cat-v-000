@@ -11,4 +11,3 @@ end
 Lassie = Cat.new
 Lassie.name = "Lassie"
 Lassie.name
-Lassie.meow
