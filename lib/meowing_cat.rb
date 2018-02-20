@@ -4,13 +4,10 @@ class Cat
   attr_accessor :meow
 
   def name
-    name
+    @name
   end
+
   def meow
     puts "meow!"
   end
 end
-
-Lassie = Cat.new
-Lassie.name = "Lassie"
-Lassie.name
