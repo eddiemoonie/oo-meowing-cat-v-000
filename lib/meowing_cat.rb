@@ -1,5 +1,5 @@
 ## code your solution here.
-class Cat
+class Cat(name, meow)
   attr_accessor :name
   attr_accessor :meow
 
